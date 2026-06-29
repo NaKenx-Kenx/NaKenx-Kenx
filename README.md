@@ -2,7 +2,7 @@
 
 ## SKILL TAGS
 
-`Godot Engine` `GDScript` `Game UX/Juicing` `2D/3D Physics` `Python` `Procedural Generation` `System Automation` `State Machine` `Game Design`
+🔴 `Godot Engine` 🟢 `GDScript` 🔵 `Game UX/Juicing` 🟡 `2D/3D Physics` 🟣 `Python` 🟠 `Procedural Generation` 🛞 `System Automation` 🤖 `State Machine` 🎮 `Game Design`
 
 ---
 
