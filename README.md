@@ -9,7 +9,9 @@ I am a game developer born in 2011, focused on building atmospheric, high-perfor
 I am currently developing a **Backrooms-themed game** featuring **procedural generation (infinite terrain backrooms)**. I have already released the early demo version for public deployment:
 * **Active Module:** [C850 Found Footage Demo](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/c850-found-footage-demo)
 
-![Backrooms Project Preview](https://img.itch.zone/aW1nLzI3ODk4NzM5LnBuZw==/315x250%23c/hJ0S7I.png)
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzI3ODk4NzM5LnBuZw==/315x250%23c/hJ0S7I.png" alt="Backrooms Project Preview">
+</p>
 
 ### 🧰 What Tools Do I Use?
 My core ecosystem is built on **Godot Engine 4.6** and **GDScript**, alongside Python for automation, systems scripting, and specialized game architectures.
