@@ -1,4 +1,4 @@
-## Hey there 👋 I'm [Keanu](https://github.com/NaKenx-Kenx).
+## Hey there 👋 I'm [Keanu.](https://github.com/NaKenx-Kenx)
 
 ---
 
