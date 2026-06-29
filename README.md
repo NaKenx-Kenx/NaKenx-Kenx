@@ -1,3 +1,22 @@
+## Hey there 👋 I'm [Keanu](https://github.com/NaKenx-Kenx)
+
+---
+
+### 👤 Who Am I?
+I am a game developer born in 2011, focused on building atmospheric, high-performance, and mechanically sound digital experiences.
+
+### 🛠️ What Am I Working On?
+I am currently developing a **Backrooms-themed game** featuring **procedural generation (infinite terrain backrooms)**. I have already released the early demo version for public deployment:
+* **Active Module:** [C850 Found Footage Demo](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/c850-found-footage-demo)
+
+![Backrooms Project Preview](https://img.itch.zone/aW1nLzI3ODk4NzM5LnBuZw==/315x250%23c/hJ0S7I.png)
+
+### 🧰 What Tools Do I Use?
+My core ecosystem is built on **Godot Engine 4.6** and **GDScript**, alongside Python for automation, systems scripting, and specialized game architectures.
+
+### ✉️ How to Contact Me?
+For formal inquiries, systems integration, or development syncs, you can ping my secure endpoint at [fredick.xdevs@gmail.com](https://www.google.com/search?q=mailto%3Afredick.xdevs%40gmail.com) or route through the networks listed in the **Connection Pipelines** section below.
+
 ---
 
 ## SKILL TAGS
@@ -7,52 +26,52 @@
 
 ## ARCHIVE MANIFEST (DEPLOYED BUILDS)
 
-Daftar proyek terpilih yang telah berhasil dikompilasi dan diintegrasikan ke dalam jaringan publik.
+A curated list of selected projects successfully compiled and integrated into public networks.
 
 ### C850 Found Footage Demo
 
-Sebuah eksperimen naratif psikologis retro yang berfokus pada atmosfer realisme mekanis.
+A retro psychological narrative experiment focusing on the atmosphere of mechanical realism.
 
-* Status: HOT
-* Tautan Modul: [Launch on Itch.io](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/c850-found-footage-demo)
+* **Status:** HOT
+* **Module Link:** [Launch on Itch.io](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/c850-found-footage-demo)
 
 ### SS2D Forcethon
 
-Kerangka kerja optimasi mekanika berbasis kalkulasi fisika dalam ruang dua dimensi.
+A mechanics optimization framework based on physics calculations within a two-dimensional space.
 
-* Status: RECOMMENDED
-* Tautan Modul: [Launch on Itch.io](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/ss2d-forcethon)
+* **Status:** RECOMMENDED
+* **Module Link:** [Launch on Itch.io](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/ss2d-forcethon)
 
 ### Orbiks Slayer
 
-Implementasi sistem state machine untuk memproses logika pertempuran dan pemrosesan performa tinggi.
+An implementation of a state machine system designed to process combat logic and high-performance execution.
 
-* Tautan Modul: [Launch on Itch.io](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/orbiks-slayer)
+* **Module Link:** [Launch on Itch.io](https://www.google.com/search?q=https://kenx-indie-dev.itch.io/orbiks-slayer)
 
 ### Laboratory Repositories
 
-Daftar lengkap eksperimen pemrograman, manajemen node, dan prototipe fisika dapat diakses secara menyeluruh.
+A comprehensive, fully accessible directory of programming experiments, node management, and physics prototypes.
 
-* Tautan Modul: [Open Itch.io Laboratory](https://kenx-indie-dev.itch.io/)
+* **Module Link:** [Open Itch.io Laboratory](https://kenx-indie-dev.itch.io/)
 
 ---
 
 ## PUBLIC ENGAGEMENTS & RECORDS
 
-Catatan keterlibatan formal dalam industri dan media digital nasional.
+Chronicles of formal engagements within national digital media and tech industries.
 
 * **RRI Pro 1 Jogja (JBR Talkshow)**
-Hadir sebagai narasumber utama untuk membedah tantangan teknis serta filosofi di balik perancangan aplikasi game mobile orisinal "Bahumu Bahuku".
+Featured as the primary keynote speaker to break down the technical challenges and core philosophy behind designing the original mobile game app "Bahumu Bahuku".
 * **Solo Technopark Innovation Hub**
-Melakukan sinkronisasi sistem, penyusunan algoritma, dan pemrograman langsung (live coding) secara intensif bersama tim akselerasi SMPN 20 Surakarta.
+Conducted intensive system synchronization, algorithm structuring, and live coding sessions alongside the acceleration team of SMPN 20 Surakarta.
 * **RRI Pro 2 Surakarta (Zona Detik)**
-Hadir sebagai panelis tamu dalam pembahasan strategi manajemen waktu dan pengembangan minat bakat teknologi bagi generasi muda.
+Invited as a guest panelist discussing time management strategies and nurturing technological talent and interests for the younger generation.
 
 ---
 
 ## CONNECTION PIPELINES
 
-Untuk keperluan kolaborasi formal, integrasi sistem, atau diskusi proyek arsitektural, hubungi endpoint di bawah ini.
+For formal collaborations, system integrations, or architectural project discussions, please reach out via the endpoints below.
 
 * **Secure Email:** [fredick.xdevs@gmail.com](https://www.google.com/search?q=mailto%3Afredick.xdevs%40gmail.com)
 * **Interactive Terminal:** [HTML Portfolio Node](https://nakenx-kenx.github.io/portfolio-jabarra)
