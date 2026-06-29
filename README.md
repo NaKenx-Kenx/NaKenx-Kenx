@@ -90,7 +90,7 @@ Untuk keperluan kolaborasi formal, integrasi sistem, atau diskusi proyek arsitek
 
 * **Secure Email:** [fredick.xdevs@gmail.com](https://www.google.com/search?q=mailto%3Afredick.xdevs%40gmail.com)
 
-* **Interactive Terminal:** [HTML Portfolio Node](https://www.google.com/search?q=https://nakenx-kenx.github.io/jabarras/)
+* **Interactive Terminal:** [HTML Portfolio Node](https://nakenx-kenx.github.io/portfolio-jabarra)
 
 * **Media Feed Pipelines:** [TikTok Dev Log](https://www.google.com/search?q=https://www.tiktok.com/%40jabarras_u) • [YouTube Channel](https://www.google.com/search?q=https://www.youtube.com/%40Jabarras-gd)
 
