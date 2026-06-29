@@ -4,22 +4,6 @@
 
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-%23242E38.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![Game UX](https://img.shields.io/badge/Game_UX_%2F_Juicing-%23E50914.svg?style=for-the-badge&logo=ubisoft&logoColor=white) ![Physics](https://img.shields.io/badge/2D%2F3D_Physics-%23512BD4.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Procedural](https://img.shields.io/badge/Procedural_Generation-%230052CC.svg?style=for-the-badge) ![Automation](https://img.shields.io/badge/System_Automation-%23232F3E.svg?style=for-the-badge) ![State Machine](https://img.shields.io/badge/State_Machine-%23009688.svg?style=for-the-badge) ![Game Design](https://img.shields.io/badge/Game_Design-%23181717.svg?style=for-the-badge)
 
----
-
-## CAPABILITY MODULES (TECHNICAL SKILLS)
-
-Estimasi efisiensi dan modul kemampuan yang diintegrasikan ke dalam arsitektur runtime.
-
-* **Godot Engine & GDScript Architecture** [MASTERED]
-Scene lifecycle management, custom signals mapping, and static typing optimization.
-* **Game UX & System Juicing** [ADVANCED - 90%]
-Screen-shake matrices, trauma computation models, and dynamic physics optimization.
-* **2D & 3D Physics Processing** [ADVANCED - 80%]
-Custom velocity calculation, tilemap integration, and kinetic equations.
-* **System Automation & Tools** [STABLE - 60%]
-Python scripting, procedural generation pipelines, and data management automation.
-
----
 
 ## ARCHIVE MANIFEST (DEPLOYED BUILDS)
 
