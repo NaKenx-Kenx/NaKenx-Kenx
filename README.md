@@ -45,8 +45,8 @@ My core ecosystem is built around **Godot Engine 4.x** and **GDScript**, extende
 ### 📈 System Status HUD
 | Metric Code | System Module Description | Runtime Status / Value |
 | :--- | :--- | :--- |
-| **PROJECTS_COMPILED** | Total internal, external, and public build modules deployed | **30+ Projects** |
-| **BIOLOGICAL_RUNTIME** | Developer age calculated since original system boot (2011) | **15 Years Old** |
+| **PROJECTS_COMPILED** | Total internal, external, and public build modules deployed | **15+ Projects** |
+| **BIOLOGICAL_RUNTIME** | Developer age calculated since original system boot (2011) | **born in 2011** |
 | **TECH_STACK_NODES** | Main core architecture engineering blocks actively utilized | **5+ Core Modules** |
 | **JUICE_RATIVE** | Implementation of camera shake and physical user feedback | **100% Operational** |
 | **PORTFOLIO_STATE** | Global health check of development systems | **ALL SYSTEMS OPERATIONAL** |
