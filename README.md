@@ -21,21 +21,21 @@ My core ecosystem is built around **Godot Engine 4.x** and **GDScript**, extende
 
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-%23242E38.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![Game UX](https://img.shields.io/badge/Game_UX_%2F_Juicing-%23E50914.svg?style=for-the-badge&logo=ubisoft&logoColor=white) ![Physics](https://img.shields.io/badge/2D%2F3D_Physics-%23512BD4.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Procedural](https://img.shields.io/badge/Procedural_Generation-%230052CC.svg?style=for-the-badge) ![Automation](https://img.shields.io/badge/System_Automation-%23232F3E.svg?style=for-the-badge) ![State Machine](https://img.shields.io/badge/State_Machine-%23009688.svg?style=for-the-badge) ![Game Design](https://img.shields.io/badge/Game_Design-%23181717.svg?style=for-the-badge)
 
-* **Godot Engine** | `██████████` 100% [MASTERED]
+* **Godot Engine** | `|██████████|` 100% [MASTERED]
   _High proficiency in node architecture and runtime scene optimizations._
-* **GDScript** | `██████████` 100% [MASTERED]
+* **GDScript** | `|██████████|` 100% [MASTERED]
   _Advanced script lifecycle handling, signals, and strict static typing._
-* **Game Feel & Juice** | `█████████░` 90% [ADVANCED]
+* **Game Feel & Juice** | `|█████████ |` 90% [ADVANCED]
   _Screen-shake, custom camera trauma, and dynamic physics responses._
-* **Game UI & UX** | `████████░░` 85% [ADVANCED]
+* **Game UI & UX** | `|████████  |` 85% [ADVANCED]
   _Dynamic layout menus, asynchronous workflows, and interface navigation comfort._
-* **2D Physics & Shaders** | `████████░░` 80% [ADVANCED]
+* **2D Physics & Shaders** | `|████████  |` 80% [ADVANCED]
   _Rigid calculations, custom tilemaps, viewports, and lighting._
-* **3D Physics & Shaders** | `███████░░░` 75% [ADVANCED]
+* **3D Physics & Shaders** | `|███████   |` 75% [ADVANCED]
   _3D viewport rendering, spatial calculations, and lighting setups._
-* **Python Scripting** | `██████░░░░` 60% [STABLE]
+* **Python Scripting** | `|██████    |` 60% [STABLE]
   _Data processing automation, file management scripts, and tooling pipelines._
-* **Godot Networking** | `█████░░░░░` 50% [STABLE]
+* **Godot Networking** | `|█████     |` 50% [STABLE]
   _Multiplayer high-level APIs, basic packet syncs, and client connection setups._
 
 ---
